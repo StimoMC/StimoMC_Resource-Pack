@@ -4,7 +4,7 @@
         "description": "StimoMC_RP",
         "name": "StimoMC_RP",
         "uuid": "ae694d84-6d5d-9d5f-0dad-f06ed4fbff70",
-        "version": [3, 0, 8],
+        "version": [3, 0, 9],
         "min_engine_version": [1, 18, 0]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "StimoMC_RP",
             "type": "resources",
             "uuid": "375acdd5-22b1-8d85-a72d-9a1fcaba8b2b",
-            "version": [3, 0, 8]
+            "version": [3, 0, 9]
         }
     ]
 }
